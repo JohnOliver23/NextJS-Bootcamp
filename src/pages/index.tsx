@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Title } from "../styles/pages/Home";
+import { Title } from "@/styles/pages/Home";
 import { GetServerSideProps } from "next";
 
 interface IProduct {
